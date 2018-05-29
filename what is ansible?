@@ -1,0 +1,8 @@
+/*
+what is ansible? - Ansible is software that automates software provisioning, configuration management, and application deployment.
+*/
+#Basic Commands Usage Details
+#1. -a MODULE_ARGS, --args=MODULE_ARGS module arguments 
+#2. --ask-vault-pass ask for vault password
+/*3. -B SECONDS, --background=SECONDS run asynchronously, failing after X seconds (default=N/A) */
+/*4. -C, --check don't make any changes; instead, try to predict some of the changes that may occur */
